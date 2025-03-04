@@ -1,2 +1,4 @@
 Harini R
 23BCAC24
+SEM:4
+DEPT:BCA
